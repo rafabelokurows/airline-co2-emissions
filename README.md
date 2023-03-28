@@ -7,3 +7,4 @@ Comparing CO2 emissions made by commercial flights
 - [ ] Evaluate fuel efficiency on some routes
 - [ ] What is the most fuel efficient route/airline?
 
+Possible source of data: EUROCONTROL - check file in repo
